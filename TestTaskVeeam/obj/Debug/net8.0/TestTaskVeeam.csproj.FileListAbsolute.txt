@@ -1,0 +1,14 @@
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\bin\Debug\net8.0\TestTaskVeeam.exe
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\bin\Debug\net8.0\TestTaskVeeam.deps.json
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\bin\Debug\net8.0\TestTaskVeeam.runtimeconfig.json
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\bin\Debug\net8.0\TestTaskVeeam.dll
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\bin\Debug\net8.0\TestTaskVeeam.pdb
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.AssemblyInfoInputs.cache
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.AssemblyInfo.cs
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.csproj.CoreCompileInputs.cache
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.dll
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\refint\TestTaskVeeam.dll
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.pdb
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\TestTaskVeeam.genruntimeconfig.cache
+E:\CsProjects\TestTaskVeeam\TestTaskVeeam\obj\Debug\net8.0\ref\TestTaskVeeam.dll
